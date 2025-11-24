@@ -1,4 +1,4 @@
-# Cloud Infrastructure Templates
+ # Cloud Infrastructure Templates
 
  This repository contains infrastructure as code templates for cloud deployments.
 
@@ -13,3 +13,7 @@
  ## Compute Configuration
 
  The repository includes templates for setting up virtual machines and compute resources.
+
+ ## Storage Configuration
+
+ The repository will include templates for setting up cloud storage resources.
